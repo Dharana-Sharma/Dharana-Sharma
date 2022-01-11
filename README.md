@@ -1,4 +1,4 @@
-#Hi 👋 , I’m @Dharana-Sharma
+# Hi 👋 , I’m @Dharana-Sharma
 ### A curious CS student
 - 👀 I’m interested in Web Dev, App Dev and Machine Learning.
 - 🌱 I’m currently learning Web Dev, DSA.

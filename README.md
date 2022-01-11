@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Dharana-Sharma
-A curious CS student
+#Hi 👋 , I’m @Dharana-Sharma
+### A curious CS student
 - 👀 I’m interested in Web Dev, App Dev and Machine Learning.
 - 🌱 I’m currently learning Web Dev, DSA.
+- 💬 Ask me about C, C++.
 - 📫 Reach me @ dharana1908@gmail.com
 
 <!---

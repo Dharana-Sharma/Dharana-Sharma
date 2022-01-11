@@ -13,7 +13,7 @@
 <p align="left">
  <a href="https://twitter.com/DharanaSharma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DharanaSharma1" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/dharana1908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharana1908" height="30" width="40" /></a> 
-<a href="www.linkedin.com/in/dharana-sharma" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Dharana Sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dharana-sharma-b1b387220/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Dharana Sharma" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/dhasha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhasha" height="30" width="40" /></a> 
   <a href="https://leetcode.com/dharana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharana" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/dharana1908/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharana1908" height="30" width="40" /></a>

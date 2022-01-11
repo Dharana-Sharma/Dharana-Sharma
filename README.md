@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dharana Sharma</h1>
 <h3 align="center">A curious Computer Science student</h3>
+
 - 👀 I’m interested in **Web Dev, App Dev and Machine Learning.**
+
 - 🌱 I’m currently learning **Web Dev and DSA.**
+
 - 💬 Ask me about **C, C++.**
+
 - 📫 Reach me @ dharana1908@gmail.com
 
 <h3 align="left">Connect with me:</h3>
